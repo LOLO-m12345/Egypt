@@ -1,0 +1,11 @@
+.l:hover{
+    color: aqua;
+
+}
+.g {
+    background-color: blue;
+    width:300px ;
+    height: 400px;
+    display: inline-block;
+margin: 20px;
+}
